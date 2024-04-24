@@ -1,11 +1,11 @@
 .page_mainsec {
     padding: 40px;
-    height: calc(100vh - 60px);
-    overflow-y: auto;
+    /* height: calc(100vh - 60px); */
+    /* overflow-y: auto; */
 }
-body{
+/* body{
     overflow: hidden;
-}
+} */
 ::-webkit-scrollbar{
     width: 10px;
     border-radius: 10px;
