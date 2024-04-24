@@ -2,7 +2,8 @@
     background-color: #1f1f1f;
     width: 90px;
     text-align: center;
-    min-height: calc(100vh - 56px);
+    min-height: calc(100vh - 156px);
+    margin-top: 58px;
   }
   .mainsidebar ul {
     padding: 0;

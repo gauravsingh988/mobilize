@@ -10,6 +10,7 @@ import { InformationComponent } from './information/information.component';
 import { SubscriptionComponent } from './subscription/subscription.component';
 import { SupportComponent } from './support/support.component';
 import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HomeComponent } from './home/home.component';
     InformationComponent,
     SubscriptionComponent,
     SupportComponent,
-    HomeComponent
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
